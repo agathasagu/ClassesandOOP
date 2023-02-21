@@ -60,3 +60,5 @@ if customer1.is_member():
 
     print("Member Discount: ${:.2f}".format(discount))
     print("Total Cost after discount: ${:.2f}\n".format(order_total))
+
+# End
