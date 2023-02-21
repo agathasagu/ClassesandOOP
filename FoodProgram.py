@@ -13,7 +13,7 @@ dict = {
 
 order_total = 0
 
-
+"""
 customer1 = fc.Customer(
     570,
     "Danni Sellyar",
@@ -22,16 +22,16 @@ customer1 = fc.Customer(
     "254-555-9362",
     False,
 )
+"""
 
-
-""" customer1 = fc.Customer(
+customer1 = fc.Customer(
     569,
     "Aubree Himsworth",
     "	1172 Moulton Hill Waco Texas 76710",
     "ahimsworthfs@list-manage.com",
     "254-555-2273",
     True,
-) """
+)
 
 
 customer_trans = []
